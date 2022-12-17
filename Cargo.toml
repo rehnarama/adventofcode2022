@@ -59,6 +59,14 @@ path = "src/day7/part1.rs"
 name = "day7part2"
 path = "src/day7/part2.rs"
 
+[[bin]]
+name = "day8part1"
+path = "src/day8/part1.rs"
+
+[[bin]]
+name = "day8part2"
+path = "src/day8/part2.rs"
+
 
 [[bin]]
 name = "day9part1"
@@ -74,3 +82,4 @@ path = "src/day9/part2.rs"
 [dependencies]
 lazy_static = "1.4.0"
 regex = "1.7.0"
+colored = "2.0.0"
