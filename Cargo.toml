@@ -67,7 +67,6 @@ path = "src/day8/part1.rs"
 name = "day8part2"
 path = "src/day8/part2.rs"
 
-
 [[bin]]
 name = "day9part1"
 path = "src/day9/part1.rs"
@@ -75,6 +74,14 @@ path = "src/day9/part1.rs"
 [[bin]]
 name = "day9part2"
 path = "src/day9/part2.rs"
+
+[[bin]]
+name = "day10part1"
+path = "src/day10/part1.rs"
+
+[[bin]]
+name = "day10part2"
+path = "src/day10/part2.rs"
 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
